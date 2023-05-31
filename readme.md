@@ -1,4 +1,4 @@
-# Project: U.S. Medical Insurance
+# Project: U.S. Medical Insurance Costs
 
 [U.S. Medical Insurance Costs](https://www.codecademy.com/paths/bi-data-analyst/tracks/dsf-portfolio-project-u-s-medical-insurance/modules/dsf-portfolio-project-u-s-medical-insurance/kanban_projects/us-medical-insurance-costs-portfolio-project)
 
